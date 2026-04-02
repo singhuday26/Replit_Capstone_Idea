@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "tlRSosmRGQ98MUtMK-uGR"
+uri = "file://client/src/assets/hero-bg.png"
+type = "image"
+title = "Abstract glowing tech capstone graphic"
+
+[[generated]]
+id = "AHzcStFk9GSklqXbAIZjz"
+uri = "file://client/src/assets/empty-ideas.png"
+type = "image"
+title = "Empty state no ideas illustration"
